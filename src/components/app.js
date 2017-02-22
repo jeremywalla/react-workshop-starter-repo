@@ -1,10 +1,13 @@
 import React from 'react';
+import Header from './Header'
 
 export default React.createClass({
   render: function () {
     return (
       <div>
-        Welcome to React!
+        <Header />
+        
+        Welcome to Foobar!
       </div>
     );
   }
