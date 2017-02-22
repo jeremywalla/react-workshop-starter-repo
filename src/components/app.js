@@ -7,7 +7,7 @@ export default React.createClass({
       <div>
         <Header />
         
-        Welcome to Foobar!
+        Welcome to Jeremy's Site!
       </div>
     );
   }
